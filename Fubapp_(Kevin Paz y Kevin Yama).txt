@@ -1,0 +1,8 @@
+El desarrollo de la aplicacion no se pudo completar de la forma deseada ya que no contamos
+con el tiempo suficiente, el proyecto lo  desarrollamos conjuntamente con mi compañero
+Kevin Yahir Yama y mi persona Kevin Paz Villarreal, el modulo para que el administrador pueda
+registrar canchas y partidos y posteriormente poder visualizarlos. 
+
+De igual forma seguiremos desarrollando nuestra aplicacion hasta lograr los objetivos
+que establecimos inicialmente. 
+ 
